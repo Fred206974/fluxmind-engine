@@ -72,3 +72,17 @@ scratch.md
 /blob-report/
 /playwright/.cache/
 ".env" 
+
+*.pem
+*.crt
+*.key
+*.p12
+*.pfx
+
+*.log
+*.bak
+secret.*
+*.secret
+
+config/local.*
+
